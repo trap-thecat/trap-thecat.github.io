@@ -343,7 +343,7 @@ window._com_novelgames_spgames_mousetrap_Main_run = function(a, b, c) {
     var d;
     d = document.getElementsByTagName("script");
     d = /(.*)\/js\//.exec(d[d.length - 2].src)[1];
-    (new da(a, 600, 400, b, c, d, k, d + "/assets/__.png", d + "/assets/_.png")).Jc(function() {
+    (new da(a, 600, 400, b, c, d, k, d + "/assets/a.png", d + "/assets/b.png")).Jc(function() {
         z(ra, new sa)
     })
 };
